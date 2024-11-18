@@ -4,7 +4,7 @@
 
 ### 1. Клонируйте репозиторий
 Выполните команду для клонирования проекта на локальную машину:
-```git clone https://github.com/MaybeNextTime321/maybe-game-engine.git```
+```git clone https://github.com/MaybeNextTime321/exbo_test_task.git```
 ### 2. Перейдите в созданную папку
 ### 3. Запустите файл проекта exbo_test_task.sln
 
