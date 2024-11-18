@@ -1,0 +1,1917 @@
+{
+  "object_6813": {
+    "id": 18934,
+    "reward": "explorer_cosmic",
+    "weight": 5
+  },
+  "object_4593": {
+    "id": 34432,
+    "reward": "explorer_stellar",
+    "weight": 3
+  },
+  "object_6516": {
+    "id": 43498,
+    "reward": "universe_infinite",
+    "weight": 2
+  },
+  "object_4864": {
+    "id": 33221,
+    "reward": "explorer_celestial",
+    "weight": 4
+  },
+  "object_1866": {
+    "id": 13762,
+    "reward": "explorer_lunar",
+    "weight": 3
+  },
+  "object_3172": {
+    "id": 15435,
+    "reward": "explorer_galactic",
+    "weight": 1
+  },
+  "object_8664": {
+    "id": 94430,
+    "reward": "explorer_astronomical",
+    "weight": 3
+  },
+  "object_2248": {
+    "id": 24712,
+    "reward": "explorer_planetary",
+    "weight": 8
+  },
+  "object_4765": {
+    "id": 73564,
+    "reward": "planet_dark",
+    "weight": 4
+  },
+  "object_8115": {
+    "id": 70017,
+    "reward": "explorer_alien",
+    "weight": 1
+  },
+  "object_3967": {
+    "id": 95813,
+    "reward": "explorer_extraterrestrial",
+    "weight": 7
+  },
+  "object_7568": {
+    "id": 89897,
+    "reward": "explorer_meteoric",
+    "weight": 1
+  },
+  "object_8981": {
+    "id": 74284,
+    "reward": "explorer_spatial",
+    "weight": 4
+  },
+  "object_2000": {
+    "id": 31779,
+    "reward": "explorer_nebular",
+    "weight": 9
+  },
+  "object_1429": {
+    "id": 76619,
+    "reward": "spacecraft_interstellar",
+    "weight": 6
+  },
+  "object_7974": {
+    "id": 92138,
+    "reward": "cosmos_planetary",
+    "weight": 4
+  },
+  "object_9092": {
+    "id": 56005,
+    "reward": "explorer_infinite",
+    "weight": 8
+  },
+  "object_1058": {
+    "id": 63140,
+    "reward": "explorer_mystic",
+    "weight": 8
+  },
+  "object_6258": {
+    "id": 29886,
+    "reward": "explorer_ethereal",
+    "weight": 7
+  },
+  "object_9733": {
+    "id": 83595,
+    "reward": "explorer_luminous",
+    "weight": 8
+  },
+  "object_1930": {
+    "id": 10482,
+    "reward": "voyager_cosmic",
+    "weight": 0
+  },
+  "object_4490": {
+    "id": 84988,
+    "reward": "voyager_stellar",
+    "weight": 2
+  },
+  "object_3660": {
+    "id": 31080,
+    "reward": "voyager_interstellar",
+    "weight": 7
+  },
+  "object_7721": {
+    "id": 90924,
+    "reward": "constellation_mystic",
+    "weight": 2
+  },
+  "object_7435": {
+    "id": 80723,
+    "reward": "voyager_lunar",
+    "weight": 5
+  },
+  "object_4720": {
+    "id": 25040,
+    "reward": "voyager_galactic",
+    "weight": 9
+  },
+  "object_8425": {
+    "id": 38955,
+    "reward": "voyager_astronomical",
+    "weight": 7
+  },
+  "object_5107": {
+    "id": 20617,
+    "reward": "voyager_planetary",
+    "weight": 4
+  },
+  "object_5766": {
+    "id": 57164,
+    "reward": "voyager_orbital",
+    "weight": 0
+  },
+  "object_8202": {
+    "id": 84059,
+    "reward": "voyager_alien",
+    "weight": 6
+  },
+  "object_3250": {
+    "id": 80795,
+    "reward": "voyager_extraterrestrial",
+    "weight": 2
+  },
+  "object_5100": {
+    "id": 56825,
+    "reward": "voyager_meteoric",
+    "weight": 5
+  },
+  "object_7939": {
+    "id": 81226,
+    "reward": "voyager_spatial",
+    "weight": 8
+  },
+  "object_3202": {
+    "id": 39320,
+    "reward": "voyager_nebular",
+    "weight": 7
+  },
+  "object_4878": {
+    "id": 53765,
+    "reward": "voyager_dark",
+    "weight": 8
+  },
+  "object_2822": {
+    "id": 67173,
+    "reward": "voyager_radiant",
+    "weight": 9
+  },
+  "object_5018": {
+    "id": 62337,
+    "reward": "voyager_infinite",
+    "weight": 6
+  },
+  "object_4211": {
+    "id": 50978,
+    "reward": "voyager_mystic",
+    "weight": 5
+  },
+  "object_8486": {
+    "id": 42905,
+    "reward": "voyager_ethereal",
+    "weight": 9
+  },
+  "object_5784": {
+    "id": 31464,
+    "reward": "voyager_luminous",
+    "weight": 5
+  },
+  "object_9950": {
+    "id": 77207,
+    "reward": "astronaut_cosmic",
+    "weight": 8
+  },
+  "object_4572": {
+    "id": 65299,
+    "reward": "astronaut_stellar",
+    "weight": 6
+  },
+  "object_2254": {
+    "id": 53214,
+    "reward": "astronaut_interstellar",
+    "weight": 1
+  },
+  "object_1818": {
+    "id": 12795,
+    "reward": "astronaut_lunar",
+    "weight": 1
+  },
+  "object_8334": {
+    "id": 72158,
+    "reward": "astronaut_galactic",
+    "weight": 6
+  },
+  "object_1204": {
+    "id": 11668,
+    "reward": "astronaut_astronomical",
+    "weight": 0
+  },
+  "object_8615": {
+    "id": 77396,
+    "reward": "astronaut_extraterrestrial",
+    "weight": 3
+  },
+  "object_1986": {
+    "id": 59974,
+    "reward": "astronaut_orbital",
+    "weight": 5
+  },
+  "object_8091": {
+    "id": 39125,
+    "reward": "astronaut_alien",
+    "weight": 9
+  },
+  "object_3981": {
+    "id": 67136,
+    "reward": "astronaut_meteoric",
+    "weight": 1
+  },
+  "object_4114": {
+    "id": 90449,
+    "reward": "astronaut_spatial",
+    "weight": 8
+  },
+  "object_2793": {
+    "id": 75110,
+    "reward": "astronaut_nebular",
+    "weight": 7
+  },
+  "object_2647": {
+    "id": 62516,
+    "reward": "astronaut_dark",
+    "weight": 0
+  },
+  "object_9253": {
+    "id": 73433,
+    "reward": "astronaut_radiant",
+    "weight": 3
+  },
+  "object_2191": {
+    "id": 80097,
+    "reward": "astronaut_infinite",
+    "weight": 8
+  },
+  "object_7269": {
+    "id": 51219,
+    "reward": "astronaut_mystic",
+    "weight": 4
+  },
+  "object_5482": {
+    "id": 32372,
+    "reward": "nebula_radiant",
+    "weight": 2
+  },
+  "object_9554": {
+    "id": 37946,
+    "reward": "black_hole_alien",
+    "weight": 9
+  },
+  "object_1209": {
+    "id": 19589,
+    "reward": "comet_cosmic",
+    "weight": 6
+  },
+  "object_1375": {
+    "id": 40497,
+    "reward": "comet_stellar",
+    "weight": 6
+  },
+  "object_4333": {
+    "id": 61494,
+    "reward": "comet_interstellar",
+    "weight": 5
+  },
+  "object_8883": {
+    "id": 39032,
+    "reward": "comet_celestial",
+    "weight": 7
+  },
+  "object_3200": {
+    "id": 72349,
+    "reward": "comet_lunar",
+    "weight": 9
+  },
+  "object_1711": {
+    "id": 38423,
+    "reward": "comet_galactic",
+    "weight": 0
+  },
+  "object_7491": {
+    "id": 38203,
+    "reward": "constellation_ethereal",
+    "weight": 0
+  },
+  "object_5344": {
+    "id": 93387,
+    "reward": "comet_planetary",
+    "weight": 1
+  },
+  "object_3913": {
+    "id": 28082,
+    "reward": "comet_orbital",
+    "weight": 1
+  },
+  "object_8374": {
+    "id": 96417,
+    "reward": "comet_alien",
+    "weight": 9
+  },
+  "object_3616": {
+    "id": 63742,
+    "reward": "comet_extraterrestrial",
+    "weight": 9
+  },
+  "object_1943": {
+    "id": 97957,
+    "reward": "comet_meteoric",
+    "weight": 4
+  },
+  "object_9482": {
+    "id": 51729,
+    "reward": "comet_spatial",
+    "weight": 7
+  },
+  "object_3170": {
+    "id": 50637,
+    "reward": "comet_nebular",
+    "weight": 7
+  },
+  "object_4038": {
+    "id": 90851,
+    "reward": "comet_dark",
+    "weight": 8
+  },
+  "object_7097": {
+    "id": 62902,
+    "reward": "comet_radiant",
+    "weight": 7
+  },
+  "object_2314": {
+    "id": 43677,
+    "reward": "comet_infinite",
+    "weight": 4
+  },
+  "object_3328": {
+    "id": 92414,
+    "reward": "comet_mystic",
+    "weight": 7
+  },
+  "object_3876": {
+    "id": 14563,
+    "reward": "black_hole_interstellar",
+    "weight": 6
+  },
+  "object_7444": {
+    "id": 55853,
+    "reward": "comet_luminous",
+    "weight": 6
+  },
+  "object_9603": {
+    "id": 41696,
+    "reward": "galaxy_cosmic",
+    "weight": 2
+  },
+  "object_8804": {
+    "id": 76427,
+    "reward": "galaxy_stellar",
+    "weight": 0
+  },
+  "object_2981": {
+    "id": 26241,
+    "reward": "galaxy_interstellar",
+    "weight": 4
+  },
+  "object_7925": {
+    "id": 11818,
+    "reward": "galaxy_celestial",
+    "weight": 0
+  },
+  "object_8733": {
+    "id": 39423,
+    "reward": "galaxy_lunar",
+    "weight": 4
+  },
+  "object_6991": {
+    "id": 30673,
+    "reward": "galaxy_galactic",
+    "weight": 3
+  },
+  "object_7756": {
+    "id": 81016,
+    "reward": "galaxy_astronomical",
+    "weight": 9
+  },
+  "object_2283": {
+    "id": 20897,
+    "reward": "galaxy_planetary",
+    "weight": 2
+  },
+  "object_6555": {
+    "id": 10931,
+    "reward": "galaxy_orbital",
+    "weight": 2
+  },
+  "object_1948": {
+    "id": 92612,
+    "reward": "galaxy_alien",
+    "weight": 7
+  },
+  "object_3457": {
+    "id": 83917,
+    "reward": "galaxy_extraterrestrial",
+    "weight": 5
+  },
+  "object_8205": {
+    "id": 91386,
+    "reward": "galaxy_meteoric",
+    "weight": 6
+  },
+  "object_9673": {
+    "id": 29763,
+    "reward": "galaxy_spatial",
+    "weight": 4
+  },
+  "object_8331": {
+    "id": 71756,
+    "reward": "galaxy_nebular",
+    "weight": 6
+  },
+  "object_9352": {
+    "id": 38848,
+    "reward": "galaxy_dark",
+    "weight": 8
+  },
+  "object_4665": {
+    "id": 59822,
+    "reward": "galaxy_radiant",
+    "weight": 5
+  },
+  "object_3108": {
+    "id": 48856,
+    "reward": "galaxy_infinite",
+    "weight": 8
+  },
+  "object_5282": {
+    "id": 33363,
+    "reward": "galaxy_mystic",
+    "weight": 5
+  },
+  "object_3922": {
+    "id": 86904,
+    "reward": "galaxy_ethereal",
+    "weight": 2
+  },
+  "object_8172": {
+    "id": 95037,
+    "reward": "galaxy_luminous",
+    "weight": 0
+  },
+  "object_3590": {
+    "id": 40755,
+    "reward": "nebula_cosmic",
+    "weight": 1
+  },
+  "object_8624": {
+    "id": 44819,
+    "reward": "nebula_stellar",
+    "weight": 7
+  },
+  "object_9059": {
+    "id": 16216,
+    "reward": "nebula_interstellar",
+    "weight": 0
+  },
+  "object_3915": {
+    "id": 90869,
+    "reward": "nebula_celestial",
+    "weight": 6
+  },
+  "object_7903": {
+    "id": 54358,
+    "reward": "nebula_lunar",
+    "weight": 2
+  },
+  "object_3368": {
+    "id": 43616,
+    "reward": "nebula_galactic",
+    "weight": 2
+  },
+  "object_8121": {
+    "id": 23676,
+    "reward": "nebula_astronomical",
+    "weight": 0
+  },
+  "object_7954": {
+    "id": 50994,
+    "reward": "nebula_planetary",
+    "weight": 8
+  },
+  "object_4852": {
+    "id": 92512,
+    "reward": "nebula_orbital",
+    "weight": 4
+  },
+  "object_6493": {
+    "id": 30681,
+    "reward": "nebula_alien",
+    "weight": 9
+  },
+  "object_1426": {
+    "id": 38660,
+    "reward": "nebula_extraterrestrial",
+    "weight": 7
+  },
+  "object_2385": {
+    "id": 75946,
+    "reward": "nebula_meteoric",
+    "weight": 8
+  },
+  "object_6830": {
+    "id": 13693,
+    "reward": "nebula_spatial",
+    "weight": 1
+  },
+  "object_8175": {
+    "id": 32616,
+    "reward": "nebula_nebular",
+    "weight": 0
+  },
+  "object_5590": {
+    "id": 56262,
+    "reward": "nebula_dark",
+    "weight": 7
+  },
+  "object_9401": {
+    "id": 85777,
+    "reward": "nebula_infinite",
+    "weight": 5
+  },
+  "object_7031": {
+    "id": 75527,
+    "reward": "nebula_mystic",
+    "weight": 4
+  },
+  "object_6035": {
+    "id": 97622,
+    "reward": "nebula_ethereal",
+    "weight": 1
+  },
+  "object_4599": {
+    "id": 15322,
+    "reward": "nebula_luminous",
+    "weight": 7
+  },
+  "object_7510": {
+    "id": 64476,
+    "reward": "spaceship_cosmic",
+    "weight": 0
+  },
+  "object_3664": {
+    "id": 82238,
+    "reward": "spaceship_stellar",
+    "weight": 5
+  },
+  "object_6775": {
+    "id": 97291,
+    "reward": "spaceship_interstellar",
+    "weight": 3
+  },
+  "object_8692": {
+    "id": 87990,
+    "reward": "spaceship_celestial",
+    "weight": 3
+  },
+  "object_4314": {
+    "id": 15936,
+    "reward": "spaceship_lunar",
+    "weight": 1
+  },
+  "object_8776": {
+    "id": 32034,
+    "reward": "spaceship_galactic",
+    "weight": 4
+  },
+  "object_6479": {
+    "id": 52047,
+    "reward": "satellite_planetary",
+    "weight": 5
+  },
+  "object_2689": {
+    "id": 61994,
+    "reward": "spaceship_planetary",
+    "weight": 3
+  },
+  "object_5769": {
+    "id": 86556,
+    "reward": "spaceship_orbital",
+    "weight": 2
+  },
+  "object_5425": {
+    "id": 21725,
+    "reward": "spaceship_alien",
+    "weight": 7
+  },
+  "object_9065": {
+    "id": 83310,
+    "reward": "spaceship_extraterrestrial",
+    "weight": 9
+  },
+  "object_9628": {
+    "id": 69490,
+    "reward": "spaceship_meteoric",
+    "weight": 4
+  },
+  "object_8018": {
+    "id": 69441,
+    "reward": "spaceship_spatial",
+    "weight": 2
+  },
+  "object_6100": {
+    "id": 66051,
+    "reward": "spaceship_nebular",
+    "weight": 8
+  },
+  "object_8183": {
+    "id": 72588,
+    "reward": "spaceship_dark",
+    "weight": 0
+  },
+  "object_9200": {
+    "id": 87892,
+    "reward": "alien_interstellar",
+    "weight": 5
+  },
+  "object_2071": {
+    "id": 64378,
+    "reward": "spaceship_infinite",
+    "weight": 8
+  },
+  "object_2995": {
+    "id": 70992,
+    "reward": "spaceship_mystic",
+    "weight": 2
+  },
+  "object_7884": {
+    "id": 99680,
+    "reward": "spaceship_ethereal",
+    "weight": 4
+  },
+  "object_6116": {
+    "id": 53351,
+    "reward": "spaceship_luminous",
+    "weight": 1
+  },
+  "object_1392": {
+    "id": 99037,
+    "reward": "satellite_cosmic",
+    "weight": 3
+  },
+  "object_5511": {
+    "id": 31872,
+    "reward": "satellite_stellar",
+    "weight": 6
+  },
+  "object_7768": {
+    "id": 12099,
+    "reward": "satellite_interstellar",
+    "weight": 1
+  },
+  "object_6640": {
+    "id": 84453,
+    "reward": "satellite_celestial",
+    "weight": 5
+  },
+  "object_8617": {
+    "id": 95375,
+    "reward": "satellite_lunar",
+    "weight": 2
+  },
+  "object_9736": {
+    "id": 58447,
+    "reward": "satellite_galactic",
+    "weight": 8
+  },
+  "object_5770": {
+    "id": 46552,
+    "reward": "satellite_astronomical",
+    "weight": 9
+  },
+  "object_8099": {
+    "id": 34801,
+    "reward": "black_hole_spatial",
+    "weight": 4
+  },
+  "object_3902": {
+    "id": 80447,
+    "reward": "satellite_alien",
+    "weight": 6
+  },
+  "object_9533": {
+    "id": 29733,
+    "reward": "satellite_extraterrestrial",
+    "weight": 7
+  },
+  "object_1399": {
+    "id": 51432,
+    "reward": "satellite_meteoric",
+    "weight": 0
+  },
+  "object_4966": {
+    "id": 47006,
+    "reward": "satellite_spatial",
+    "weight": 0
+  },
+  "object_9521": {
+    "id": 41119,
+    "reward": "satellite_nebular",
+    "weight": 0
+  },
+  "object_2169": {
+    "id": 34523,
+    "reward": "satellite_dark",
+    "weight": 4
+  },
+  "object_5190": {
+    "id": 55040,
+    "reward": "satellite_radiant",
+    "weight": 8
+  },
+  "object_7173": {
+    "id": 67472,
+    "reward": "satellite_infinite",
+    "weight": 6
+  },
+  "object_2877": {
+    "id": 13462,
+    "reward": "satellite_mystic",
+    "weight": 1
+  },
+  "object_6814": {
+    "id": 13277,
+    "reward": "satellite_ethereal",
+    "weight": 5
+  },
+  "object_1259": {
+    "id": 36115,
+    "reward": "satellite_luminous",
+    "weight": 2
+  },
+  "object_8042": {
+    "id": 69584,
+    "reward": "meteor_cosmic",
+    "weight": 9
+  },
+  "object_1454": {
+    "id": 53016,
+    "reward": "meteor_stellar",
+    "weight": 2
+  },
+  "object_2579": {
+    "id": 95623,
+    "reward": "meteor_interstellar",
+    "weight": 9
+  },
+  "object_8642": {
+    "id": 52162,
+    "reward": "meteor_celestial",
+    "weight": 2
+  },
+  "object_7032": {
+    "id": 98389,
+    "reward": "meteor_lunar",
+    "weight": 0
+  },
+  "object_1128": {
+    "id": 49969,
+    "reward": "meteor_galactic",
+    "weight": 7
+  },
+  "object_4257": {
+    "id": 71053,
+    "reward": "meteor_astronomical",
+    "weight": 7
+  },
+  "object_9270": {
+    "id": 42857,
+    "reward": "meteor_planetary",
+    "weight": 0
+  },
+  "object_3624": {
+    "id": 99024,
+    "reward": "meteor_orbital",
+    "weight": 3
+  },
+  "object_8895": {
+    "id": 80062,
+    "reward": "meteor_alien",
+    "weight": 4
+  },
+  "object_2067": {
+    "id": 40236,
+    "reward": "meteor_extraterrestrial",
+    "weight": 3
+  },
+  "object_2745": {
+    "id": 52791,
+    "reward": "meteor_meteoric",
+    "weight": 5
+  },
+  "object_1326": {
+    "id": 86405,
+    "reward": "meteor_spatial",
+    "weight": 4
+  },
+  "object_6664": {
+    "id": 52466,
+    "reward": "meteor_nebular",
+    "weight": 9
+  },
+  "object_7665": {
+    "id": 30791,
+    "reward": "meteor_dark",
+    "weight": 2
+  },
+  "object_6502": {
+    "id": 42331,
+    "reward": "meteor_radiant",
+    "weight": 5
+  },
+  "object_7163": {
+    "id": 32117,
+    "reward": "meteor_infinite",
+    "weight": 0
+  },
+  "object_7253": {
+    "id": 65587,
+    "reward": "meteor_mystic",
+    "weight": 6
+  },
+  "object_6936": {
+    "id": 13852,
+    "reward": "meteor_ethereal",
+    "weight": 9
+  },
+  "object_5881": {
+    "id": 27021,
+    "reward": "meteor_luminous",
+    "weight": 7
+  },
+  "object_7749": {
+    "id": 81633,
+    "reward": "planet_cosmic",
+    "weight": 4
+  },
+  "object_8607": {
+    "id": 79563,
+    "reward": "planet_stellar",
+    "weight": 6
+  },
+  "object_5967": {
+    "id": 80336,
+    "reward": "planet_interstellar",
+    "weight": 6
+  },
+  "object_8298": {
+    "id": 93951,
+    "reward": "planet_celestial",
+    "weight": 8
+  },
+  "object_5584": {
+    "id": 54708,
+    "reward": "planet_lunar",
+    "weight": 0
+  },
+  "object_7532": {
+    "id": 84795,
+    "reward": "planet_galactic",
+    "weight": 8
+  },
+  "object_4531": {
+    "id": 45408,
+    "reward": "planet_astronomical",
+    "weight": 8
+  },
+  "object_8861": {
+    "id": 68498,
+    "reward": "planet_planetary",
+    "weight": 1
+  },
+  "object_6657": {
+    "id": 12634,
+    "reward": "planet_orbital",
+    "weight": 5
+  },
+  "object_8853": {
+    "id": 63739,
+    "reward": "planet_alien",
+    "weight": 0
+  },
+  "object_4691": {
+    "id": 89353,
+    "reward": "planet_extraterrestrial",
+    "weight": 5
+  },
+  "object_5136": {
+    "id": 60764,
+    "reward": "planet_meteoric",
+    "weight": 2
+  },
+  "object_2012": {
+    "id": 69622,
+    "reward": "planet_spatial",
+    "weight": 0
+  },
+  "object_8150": {
+    "id": 91908,
+    "reward": "planet_nebular",
+    "weight": 1
+  },
+  "object_8757": {
+    "id": 76986,
+    "reward": "planet_radiant",
+    "weight": 8
+  },
+  "object_4591": {
+    "id": 13650,
+    "reward": "planet_infinite",
+    "weight": 6
+  },
+  "object_8649": {
+    "id": 35903,
+    "reward": "planet_mystic",
+    "weight": 0
+  },
+  "object_3316": {
+    "id": 70194,
+    "reward": "planet_ethereal",
+    "weight": 7
+  },
+  "object_7267": {
+    "id": 60711,
+    "reward": "planet_luminous",
+    "weight": 8
+  },
+  "object_8451": {
+    "id": 28050,
+    "reward": "orbit_cosmic",
+    "weight": 3
+  },
+  "object_1093": {
+    "id": 70550,
+    "reward": "orbit_stellar",
+    "weight": 0
+  },
+  "object_8027": {
+    "id": 85150,
+    "reward": "orbit_interstellar",
+    "weight": 9
+  },
+  "object_6249": {
+    "id": 62119,
+    "reward": "orbit_celestial",
+    "weight": 9
+  },
+  "object_2180": {
+    "id": 86011,
+    "reward": "orbit_lunar",
+    "weight": 9
+  },
+  "object_1040": {
+    "id": 18244,
+    "reward": "orbit_galactic",
+    "weight": 9
+  },
+  "object_7616": {
+    "id": 51977,
+    "reward": "orbit_astronomical",
+    "weight": 0
+  },
+  "object_1825": {
+    "id": 53388,
+    "reward": "orbit_planetary",
+    "weight": 6
+  },
+  "object_3295": {
+    "id": 22164,
+    "reward": "orbit_orbital",
+    "weight": 2
+  },
+  "object_6859": {
+    "id": 19426,
+    "reward": "orbit_alien",
+    "weight": 5
+  },
+  "object_2601": {
+    "id": 84422,
+    "reward": "orbit_extraterrestrial",
+    "weight": 9
+  },
+  "object_4848": {
+    "id": 38103,
+    "reward": "orbit_meteoric",
+    "weight": 3
+  },
+  "object_7012": {
+    "id": 40963,
+    "reward": "orbit_spatial",
+    "weight": 0
+  },
+  "object_8192": {
+    "id": 18649,
+    "reward": "orbit_nebular",
+    "weight": 6
+  },
+  "object_9746": {
+    "id": 11204,
+    "reward": "orbit_dark",
+    "weight": 6
+  },
+  "object_2622": {
+    "id": 93302,
+    "reward": "orbit_radiant",
+    "weight": 4
+  },
+  "object_8024": {
+    "id": 27537,
+    "reward": "orbit_infinite",
+    "weight": 3
+  },
+  "object_5060": {
+    "id": 90870,
+    "reward": "orbit_mystic",
+    "weight": 5
+  },
+  "object_3000": {
+    "id": 72330,
+    "reward": "orbit_ethereal",
+    "weight": 9
+  },
+  "object_9302": {
+    "id": 80876,
+    "reward": "orbit_luminous",
+    "weight": 4
+  },
+  "object_3748": {
+    "id": 73703,
+    "reward": "constellation_cosmic",
+    "weight": 6
+  },
+  "object_7682": {
+    "id": 89347,
+    "reward": "constellation_stellar",
+    "weight": 7
+  },
+  "object_8438": {
+    "id": 79599,
+    "reward": "constellation_interstellar",
+    "weight": 2
+  },
+  "object_8903": {
+    "id": 86201,
+    "reward": "constellation_celestial",
+    "weight": 5
+  },
+  "object_3669": {
+    "id": 21928,
+    "reward": "constellation_lunar",
+    "weight": 4
+  },
+  "object_1124": {
+    "id": 89443,
+    "reward": "constellation_galactic",
+    "weight": 1
+  },
+  "object_1775": {
+    "id": 22693,
+    "reward": "constellation_astronomical",
+    "weight": 3
+  },
+  "object_6267": {
+    "id": 66037,
+    "reward": "constellation_planetary",
+    "weight": 6
+  },
+  "object_8710": {
+    "id": 33287,
+    "reward": "constellation_orbital",
+    "weight": 2
+  },
+  "object_4986": {
+    "id": 80575,
+    "reward": "constellation_alien",
+    "weight": 8
+  },
+  "object_1244": {
+    "id": 70575,
+    "reward": "universe_mystic",
+    "weight": 4
+  },
+  "object_5378": {
+    "id": 34255,
+    "reward": "constellation_meteoric",
+    "weight": 7
+  },
+  "object_3291": {
+    "id": 86128,
+    "reward": "black_hole_radiant",
+    "weight": 1
+  },
+  "object_9940": {
+    "id": 68797,
+    "reward": "constellation_nebular",
+    "weight": 6
+  },
+  "object_3301": {
+    "id": 78398,
+    "reward": "constellation_dark",
+    "weight": 4
+  },
+  "object_6873": {
+    "id": 33128,
+    "reward": "constellation_radiant",
+    "weight": 7
+  },
+  "object_7541": {
+    "id": 35880,
+    "reward": "constellation_infinite",
+    "weight": 7
+  },
+  "object_7508": {
+    "id": 28990,
+    "reward": "constellation_luminous",
+    "weight": 2
+  },
+  "object_4228": {
+    "id": 87318,
+    "reward": "astronomy_cosmic",
+    "weight": 6
+  },
+  "object_3114": {
+    "id": 30243,
+    "reward": "astronomy_stellar",
+    "weight": 4
+  },
+  "object_6048": {
+    "id": 76660,
+    "reward": "astronomy_interstellar",
+    "weight": 4
+  },
+  "object_9602": {
+    "id": 14794,
+    "reward": "astronomy_celestial",
+    "weight": 6
+  },
+  "object_2436": {
+    "id": 95693,
+    "reward": "astronomy_lunar",
+    "weight": 0
+  },
+  "object_4728": {
+    "id": 19599,
+    "reward": "astronomy_galactic",
+    "weight": 9
+  },
+  "object_7979": {
+    "id": 36580,
+    "reward": "astronomy_astronomical",
+    "weight": 7
+  },
+  "object_3580": {
+    "id": 37336,
+    "reward": "astronomy_planetary",
+    "weight": 8
+  },
+  "object_4504": {
+    "id": 95223,
+    "reward": "astronomy_orbital",
+    "weight": 2
+  },
+  "object_2454": {
+    "id": 58863,
+    "reward": "astronomy_alien",
+    "weight": 3
+  },
+  "object_5938": {
+    "id": 10960,
+    "reward": "astronomy_extraterrestrial",
+    "weight": 9
+  },
+  "object_3456": {
+    "id": 36393,
+    "reward": "astronomy_meteoric",
+    "weight": 1
+  },
+  "object_2587": {
+    "id": 78151,
+    "reward": "astronomy_spatial",
+    "weight": 4
+  },
+  "object_7977": {
+    "id": 76258,
+    "reward": "astronomy_nebular",
+    "weight": 9
+  },
+  "object_8917": {
+    "id": 94864,
+    "reward": "astronomy_dark",
+    "weight": 5
+  },
+  "object_9153": {
+    "id": 99950,
+    "reward": "astronomy_radiant",
+    "weight": 0
+  },
+  "object_1348": {
+    "id": 34082,
+    "reward": "astronomy_infinite",
+    "weight": 0
+  },
+  "object_6192": {
+    "id": 63153,
+    "reward": "astronomy_mystic",
+    "weight": 3
+  },
+  "object_1031": {
+    "id": 77485,
+    "reward": "astronomy_ethereal",
+    "weight": 9
+  },
+  "object_9427": {
+    "id": 41778,
+    "reward": "astronomy_luminous",
+    "weight": 8
+  },
+  "object_8039": {
+    "id": 55237,
+    "reward": "universe_cosmic",
+    "weight": 0
+  },
+  "object_9988": {
+    "id": 56296,
+    "reward": "universe_stellar",
+    "weight": 2
+  },
+  "object_6011": {
+    "id": 91894,
+    "reward": "universe_interstellar",
+    "weight": 9
+  },
+  "object_6732": {
+    "id": 21132,
+    "reward": "universe_celestial",
+    "weight": 0
+  },
+  "object_8657": {
+    "id": 90222,
+    "reward": "universe_lunar",
+    "weight": 9
+  },
+  "object_7659": {
+    "id": 69779,
+    "reward": "universe_galactic",
+    "weight": 0
+  },
+  "object_2971": {
+    "id": 72829,
+    "reward": "universe_astronomical",
+    "weight": 6
+  },
+  "object_7565": {
+    "id": 22989,
+    "reward": "universe_planetary",
+    "weight": 8
+  },
+  "object_7854": {
+    "id": 47656,
+    "reward": "universe_orbital",
+    "weight": 9
+  },
+  "object_8612": {
+    "id": 23557,
+    "reward": "universe_alien",
+    "weight": 6
+  },
+  "object_2603": {
+    "id": 39182,
+    "reward": "universe_extraterrestrial",
+    "weight": 1
+  },
+  "object_9025": {
+    "id": 31524,
+    "reward": "universe_meteoric",
+    "weight": 0
+  },
+  "object_5082": {
+    "id": 22109,
+    "reward": "universe_spatial",
+    "weight": 5
+  },
+  "object_9691": {
+    "id": 32871,
+    "reward": "universe_nebular",
+    "weight": 6
+  },
+  "object_4287": {
+    "id": 77239,
+    "reward": "universe_dark",
+    "weight": 5
+  },
+  "object_9841": {
+    "id": 87689,
+    "reward": "universe_radiant",
+    "weight": 3
+  },
+  "object_8578": {
+    "id": 94283,
+    "reward": "universe_ethereal",
+    "weight": 2
+  },
+  "object_2134": {
+    "id": 90983,
+    "reward": "universe_luminous",
+    "weight": 6
+  },
+  "object_3307": {
+    "id": 71634,
+    "reward": "cosmos_cosmic",
+    "weight": 3
+  },
+  "object_6851": {
+    "id": 71972,
+    "reward": "cosmos_stellar",
+    "weight": 6
+  },
+  "object_1613": {
+    "id": 75227,
+    "reward": "cosmos_interstellar",
+    "weight": 8
+  },
+  "object_7863": {
+    "id": 58407,
+    "reward": "cosmos_celestial",
+    "weight": 4
+  },
+  "object_1881": {
+    "id": 13180,
+    "reward": "cosmos_lunar",
+    "weight": 2
+  },
+  "object_2429": {
+    "id": 44795,
+    "reward": "cosmos_galactic",
+    "weight": 2
+  },
+  "object_2853": {
+    "id": 54765,
+    "reward": "cosmos_astronomical",
+    "weight": 1
+  },
+  "object_9829": {
+    "id": 57437,
+    "reward": "cosmos_orbital",
+    "weight": 9
+  },
+  "object_9570": {
+    "id": 86404,
+    "reward": "cosmos_alien",
+    "weight": 9
+  },
+  "object_9430": {
+    "id": 53380,
+    "reward": "cosmos_extraterrestrial",
+    "weight": 2
+  },
+  "object_6660": {
+    "id": 91291,
+    "reward": "cosmos_meteoric",
+    "weight": 1
+  },
+  "object_8799": {
+    "id": 75262,
+    "reward": "cosmos_spatial",
+    "weight": 4
+  },
+  "object_3227": {
+    "id": 67145,
+    "reward": "cosmos_nebular",
+    "weight": 6
+  },
+  "object_2809": {
+    "id": 96474,
+    "reward": "cosmos_dark",
+    "weight": 5
+  },
+  "object_5029": {
+    "id": 19796,
+    "reward": "cosmos_radiant",
+    "weight": 0
+  },
+  "object_9641": {
+    "id": 52700,
+    "reward": "cosmos_infinite",
+    "weight": 2
+  },
+  "object_3192": {
+    "id": 56935,
+    "reward": "cosmos_mystic",
+    "weight": 7
+  },
+  "object_4485": {
+    "id": 66093,
+    "reward": "cosmos_ethereal",
+    "weight": 0
+  },
+  "object_7109": {
+    "id": 88489,
+    "reward": "cosmos_luminous",
+    "weight": 2
+  },
+  "object_9174": {
+    "id": 44538,
+    "reward": "black_hole_cosmic",
+    "weight": 2
+  },
+  "object_8388": {
+    "id": 56734,
+    "reward": "black_hole_stellar",
+    "weight": 2
+  },
+  "object_4601": {
+    "id": 32188,
+    "reward": "black_hole_celestial",
+    "weight": 6
+  },
+  "object_8135": {
+    "id": 50064,
+    "reward": "black_hole_lunar",
+    "weight": 9
+  },
+  "object_2461": {
+    "id": 53014,
+    "reward": "black_hole_galactic",
+    "weight": 1
+  },
+  "object_1119": {
+    "id": 41695,
+    "reward": "black_hole_astronomical",
+    "weight": 4
+  },
+  "object_9516": {
+    "id": 49340,
+    "reward": "black_hole_planetary",
+    "weight": 0
+  },
+  "object_4468": {
+    "id": 39909,
+    "reward": "black_hole_orbital",
+    "weight": 9
+  },
+  "object_2924": {
+    "id": 68158,
+    "reward": "black_hole_extraterrestrial",
+    "weight": 4
+  },
+  "object_1305": {
+    "id": 30646,
+    "reward": "black_hole_meteoric",
+    "weight": 0
+  },
+  "object_2957": {
+    "id": 97189,
+    "reward": "black_hole_nebular",
+    "weight": 4
+  },
+  "object_3189": {
+    "id": 39768,
+    "reward": "black_hole_dark",
+    "weight": 9
+  },
+  "object_4899": {
+    "id": 37730,
+    "reward": "black_hole_infinite",
+    "weight": 4
+  },
+  "object_2425": {
+    "id": 58212,
+    "reward": "black_hole_mystic",
+    "weight": 1
+  },
+  "object_6740": {
+    "id": 69024,
+    "reward": "black_hole_ethereal",
+    "weight": 5
+  },
+  "object_4375": {
+    "id": 12599,
+    "reward": "black_hole_luminous",
+    "weight": 2
+  },
+  "object_6531": {
+    "id": 37554,
+    "reward": "stardust_cosmic",
+    "weight": 8
+  },
+  "object_1311": {
+    "id": 92037,
+    "reward": "stardust_stellar",
+    "weight": 7
+  },
+  "object_3233": {
+    "id": 45038,
+    "reward": "stardust_interstellar",
+    "weight": 7
+  },
+  "object_7482": {
+    "id": 43764,
+    "reward": "stardust_celestial",
+    "weight": 6
+  },
+  "object_5733": {
+    "id": 66524,
+    "reward": "stardust_lunar",
+    "weight": 0
+  },
+  "object_4378": {
+    "id": 59568,
+    "reward": "stardust_galactic",
+    "weight": 5
+  },
+  "object_2451": {
+    "id": 10132,
+    "reward": "stardust_astronomical",
+    "weight": 4
+  },
+  "object_5389": {
+    "id": 69412,
+    "reward": "stardust_planetary",
+    "weight": 0
+  },
+  "object_7123": {
+    "id": 32717,
+    "reward": "stardust_orbital",
+    "weight": 8
+  },
+  "object_5514": {
+    "id": 28632,
+    "reward": "stardust_alien",
+    "weight": 7
+  },
+  "object_4545": {
+    "id": 88360,
+    "reward": "stardust_extraterrestrial",
+    "weight": 6
+  },
+  "object_4582": {
+    "id": 86508,
+    "reward": "stardust_meteoric",
+    "weight": 3
+  },
+  "object_5399": {
+    "id": 99308,
+    "reward": "stardust_spatial",
+    "weight": 4
+  },
+  "object_7767": {
+    "id": 63632,
+    "reward": "stardust_nebular",
+    "weight": 6
+  },
+  "object_9271": {
+    "id": 81391,
+    "reward": "stardust_dark",
+    "weight": 1
+  },
+  "object_5879": {
+    "id": 83169,
+    "reward": "stardust_radiant",
+    "weight": 0
+  },
+  "object_6905": {
+    "id": 11036,
+    "reward": "stardust_infinite",
+    "weight": 9
+  },
+  "object_7325": {
+    "id": 23422,
+    "reward": "stardust_mystic",
+    "weight": 6
+  },
+  "object_9783": {
+    "id": 63589,
+    "reward": "stardust_ethereal",
+    "weight": 1
+  },
+  "object_5759": {
+    "id": 77741,
+    "reward": "stardust_luminous",
+    "weight": 9
+  },
+  "object_9472": {
+    "id": 87913,
+    "reward": "moon_cosmic",
+    "weight": 8
+  },
+  "object_3332": {
+    "id": 47421,
+    "reward": "moon_stellar",
+    "weight": 9
+  },
+  "object_8810": {
+    "id": 62011,
+    "reward": "moon_interstellar",
+    "weight": 8
+  },
+  "object_2524": {
+    "id": 81848,
+    "reward": "alien_nebular",
+    "weight": 8
+  },
+  "object_3069": {
+    "id": 70853,
+    "reward": "moon_lunar",
+    "weight": 7
+  },
+  "object_7678": {
+    "id": 92458,
+    "reward": "moon_galactic",
+    "weight": 8
+  },
+  "object_6361": {
+    "id": 16218,
+    "reward": "moon_astronomical",
+    "weight": 2
+  },
+  "object_8964": {
+    "id": 62150,
+    "reward": "moon_planetary",
+    "weight": 4
+  },
+  "object_3381": {
+    "id": 98950,
+    "reward": "moon_orbital",
+    "weight": 2
+  },
+  "object_1406": {
+    "id": 37722,
+    "reward": "moon_alien",
+    "weight": 1
+  },
+  "object_4244": {
+    "id": 21367,
+    "reward": "moon_extraterrestrial",
+    "weight": 1
+  },
+  "object_4808": {
+    "id": 51679,
+    "reward": "moon_meteoric",
+    "weight": 1
+  },
+  "object_4304": {
+    "id": 10163,
+    "reward": "moon_spatial",
+    "weight": 5
+  },
+  "object_7296": {
+    "id": 97103,
+    "reward": "moon_nebular",
+    "weight": 9
+  },
+  "object_7942": {
+    "id": 84466,
+    "reward": "moon_dark",
+    "weight": 2
+  },
+  "object_1568": {
+    "id": 53418,
+    "reward": "moon_radiant",
+    "weight": 4
+  },
+  "object_8936": {
+    "id": 42421,
+    "reward": "moon_infinite",
+    "weight": 5
+  },
+  "object_3045": {
+    "id": 30562,
+    "reward": "moon_mystic",
+    "weight": 3
+  },
+  "object_1703": {
+    "id": 72474,
+    "reward": "moon_ethereal",
+    "weight": 8
+  },
+  "object_3013": {
+    "id": 93447,
+    "reward": "moon_luminous",
+    "weight": 2
+  },
+  "object_9311": {
+    "id": 45441,
+    "reward": "alien_cosmic",
+    "weight": 8
+  },
+  "object_8950": {
+    "id": 87896,
+    "reward": "alien_stellar",
+    "weight": 4
+  },
+  "object_1844": {
+    "id": 19704,
+    "reward": "alien_celestial",
+    "weight": 6
+  },
+  "object_1250": {
+    "id": 94908,
+    "reward": "alien_lunar",
+    "weight": 7
+  },
+  "object_9712": {
+    "id": 89093,
+    "reward": "alien_galactic",
+    "weight": 1
+  },
+  "object_5216": {
+    "id": 27338,
+    "reward": "alien_astronomical",
+    "weight": 4
+  },
+  "object_5622": {
+    "id": 25188,
+    "reward": "alien_planetary",
+    "weight": 6
+  },
+  "object_8749": {
+    "id": 34659,
+    "reward": "alien_orbital",
+    "weight": 1
+  },
+  "object_8110": {
+    "id": 56084,
+    "reward": "alien_alien",
+    "weight": 1
+  },
+  "object_3736": {
+    "id": 54195,
+    "reward": "alien_extraterrestrial",
+    "weight": 9
+  },
+  "object_1963": {
+    "id": 80707,
+    "reward": "alien_meteoric",
+    "weight": 8
+  },
+  "object_3182": {
+    "id": 84637,
+    "reward": "alien_spatial",
+    "weight": 0
+  },
+  "object_4350": {
+    "id": 21744,
+    "reward": "alien_dark",
+    "weight": 1
+  },
+  "object_2970": {
+    "id": 25704,
+    "reward": "alien_radiant",
+    "weight": 4
+  },
+  "object_4064": {
+    "id": 70853,
+    "reward": "alien_infinite",
+    "weight": 6
+  },
+  "object_4961": {
+    "id": 70365,
+    "reward": "alien_mystic",
+    "weight": 1
+  },
+  "object_9179": {
+    "id": 60980,
+    "reward": "alien_ethereal",
+    "weight": 8
+  },
+  "object_5105": {
+    "id": 53879,
+    "reward": "alien_luminous",
+    "weight": 4
+  },
+  "object_1998": {
+    "id": 77365,
+    "reward": "spacecraft_cosmic",
+    "weight": 4
+  },
+  "object_5996": {
+    "id": 41583,
+    "reward": "spacecraft_stellar",
+    "weight": 4
+  },
+  "object_7922": {
+    "id": 24717,
+    "reward": "spacecraft_celestial",
+    "weight": 6
+  },
+  "object_8540": {
+    "id": 24081,
+    "reward": "spacecraft_lunar",
+    "weight": 8
+  },
+  "object_5964": {
+    "id": 38205,
+    "reward": "spacecraft_galactic",
+    "weight": 2
+  },
+  "object_2295": {
+    "id": 78034,
+    "reward": "spacecraft_astronomical",
+    "weight": 7
+  },
+  "object_3139": {
+    "id": 94845,
+    "reward": "spacecraft_planetary",
+    "weight": 8
+  },
+  "object_7744": {
+    "id": 70168,
+    "reward": "spacecraft_orbital",
+    "weight": 1
+  },
+  "object_8103": {
+    "id": 50207,
+    "reward": "spacecraft_alien",
+    "weight": 3
+  },
+  "object_4943": {
+    "id": 74202,
+    "reward": "spacecraft_extraterrestrial",
+    "weight": 0
+  },
+  "object_9346": {
+    "id": 22024,
+    "reward": "spacecraft_meteoric",
+    "weight": 0
+  },
+  "object_4501": {
+    "id": 47212,
+    "reward": "spacecraft_spatial",
+    "weight": 5
+  },
+  "object_2528": {
+    "id": 13092,
+    "reward": "spacecraft_nebular",
+    "weight": 6
+  },
+  "object_2798": {
+    "id": 70172,
+    "reward": "spacecraft_dark",
+    "weight": 4
+  },
+  "object_9831": {
+    "id": 51604,
+    "reward": "spacecraft_radiant",
+    "weight": 3
+  },
+  "object_1714": {
+    "id": 43653,
+    "reward": "spacecraft_infinite",
+    "weight": 7
+  },
+  "object_3774": {
+    "id": 90854,
+    "reward": "spacecraft_mystic",
+    "weight": 4
+  },
+  "object_2178": {
+    "id": 49412,
+    "reward": "spacecraft_ethereal",
+    "weight": 1
+  },
+  "object_6512": {
+    "id": 54753,
+    "reward": "spacecraft_luminous",
+    "weight": 9
+  }
+}
