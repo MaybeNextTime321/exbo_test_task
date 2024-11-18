@@ -1,3 +1,9 @@
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+
+.exbo_test_task/obj/
+*.dll
+*.pdb
+exbo_test_task.runtimeconfig.json
+exbo_test_task.deps.json
